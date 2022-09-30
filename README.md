@@ -5,6 +5,7 @@
 ## SAHİP 
 (https://t.me/BOT_RAMO)
 
-##BOT ÇALANI SİKERİM
+## HİM
+BOTU ÇALANI SİKERİM
 
 
