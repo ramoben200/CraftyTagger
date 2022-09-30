@@ -44,7 +44,7 @@ async def start(event):
                       [
                        Button.inline("✍ ᴇᴍʀʟᴇʀ", data="help")
                       ],
-                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{}?startgroup=a')],
+                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
                      [Button.url('📣 Söhbət Qrupu', f'https://t.me/{Ballasresmi}')],
                       [Button.url('ʀᴇsᴍᴊ Gurup', f'https://t.me/{Ballasresmi}')],
                        [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{BOT_RAMO}')]
@@ -64,7 +64,7 @@ async def handler(event):
                       [
                        Button.inline("✍ Əmrlər", data="help")
                       ],
-                      [Button.url('⚕️ Məni Qrupa Əlavə Et', f'https://t.me/{}?startgroup=a')],
+                      [Button.url('⚕️ Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
                      [Button.url('🇹🇷 Söhbət Qrupu', f'https://t.me/{Ballasresmi}')],
                       [Button.url('📣 Gurup', f'https://t.me/{Ballasresmi}')],
                        [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{BOT_RAMO}')]
