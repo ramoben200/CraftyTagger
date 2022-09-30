@@ -6,6 +6,6 @@
 (https://t.me/BOT_RAMO)
 
 ## HİM
-BOTU ÇALANI SİKERİM
+BOTU ÇALANI SİKERİM TM
 
 
