@@ -1,7 +1,7 @@
 #################################
 # Electro Tagger Bot #
 #################################
-#  Sahib - @iamZ3NT4
+#  Sahib - @BOT_RAMO
 # Reponu Öz Adına Çıxaran Peysərdi
 # Reponu Açığ Görüb Oğurlama Oğlum
 ##################################
