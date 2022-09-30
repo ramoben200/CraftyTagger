@@ -1,5 +1,5 @@
 #################################
-# Ballas Tagger Bot #
+# Electro Tagger Bot #
 #################################
 #  Sahib - @BOT_RAMO
 # Reponu Öz Adına Çıxaran Peysərdi
