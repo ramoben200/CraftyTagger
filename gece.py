@@ -1,7 +1,7 @@
 #################################
 # Electro Tagger Bot #
 #################################
-#  Sahib - @BOT_RAMO
+#  Sahib - @SwoxyComeBack
 # Reponu Öz Adına Çıxaran Peysərdi
 # Reponu Açığ Görüb Oğurlama Oğlum
 ##################################
@@ -46,8 +46,8 @@ async def start(event):
                       ],
                       [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
                      [Button.url('📣 Söhbət Qrupu', f'https://t.me/{Ballasresmi}')],
-                      [Button.url('ʀᴇsᴍᴊ Gurup', f'https://t.me/{Ballasresmi}')],
-                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{BOT_RAMO}')]
+                      [Button.url('ʀᴇsᴍᴊ Gurup', f'}')],
+                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{SwoxyComeBack}')]
                     ),
                     link_preview=False)
 
