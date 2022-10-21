@@ -44,7 +44,7 @@ async def start(event):
                       [
                        Button.inline("✍ ᴇᴍʀʟᴇʀ", data="help")
                       ],
-                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Aztecas_busebot}?startgroup=a')],
+                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{ballastaggerbot}?startgroup=a')],
                      [Button.url('📣 Söhbət Qrupu', f'https://t.me/{aztecasq}')],
                       [Button.url('ʀᴇsᴍᴊ Gurup', f'https://t.me/{aztecasq}')],
                        [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{Qnevarlan}')]
