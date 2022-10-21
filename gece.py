@@ -1,7 +1,7 @@
 #################################
 # Electro Tagger Bot #
 #################################
-#  Sahib - @BOT_RAMO
+#  Sahib - @Qnevarlan
 # Reponu Öz Adına Çıxaran Peysərdi
 # Reponu Açığ Görüb Oğurlama Oğlum
 ##################################
@@ -44,10 +44,10 @@ async def start(event):
                       [
                        Button.inline("✍ ᴇᴍʀʟᴇʀ", data="help")
                       ],
-                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
-                     [Button.url('📣 Söhbət Qrupu', f'https://t.me/{Ballasresmi}')],
-                      [Button.url('ʀᴇsᴍᴊ Gurup', f'https://t.me/{Ballasresmi}')],
-                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{BOT_RAMO}')]
+                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Aztecas_busebot}?startgroup=a')],
+                     [Button.url('📣 Söhbət Qrupu', f'https://t.me/{aztecasq}')],
+                      [Button.url('ʀᴇsᴍᴊ Gurup', f'https://t.me/{aztecasq}')],
+                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{Qnevarlan}')]
                     ),
                     link_preview=False)
 
@@ -64,10 +64,10 @@ async def handler(event):
                       [
                        Button.inline("✍ Əmrlər", data="help")
                       ],
-                      [Button.url('⚕️ Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
-                     [Button.url('🇹🇷 Söhbət Qrupu', f'https://t.me/{Ballasresmi}')],
-                      [Button.url('📣 Gurup', f'https://t.me/{Ballasresmi}')],
-                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{BOT_RAMO}')]
+                      [Button.url('⚕️ Məni Qrupa Əlavə Et', f'https://t.me/{Aztecas_busebot}?startgroup=a')],
+                     [Button.url('🇹🇷 Söhbət Qrupu', f'https://t.me/{aztecasq}')],
+                      [Button.url('📣 Gurup', f'https://t.me/{aztecasq}')],
+                       [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{Qnevarlan}')]
                     ),
                     link_preview=False)
 
@@ -111,7 +111,7 @@ async def mentionall(event):
     await client.send_message(event.chat_id, "❄️ Tağ Başladı\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                      Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                      Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -125,7 +125,7 @@ async def mentionall(event):
         await event.respond("⛔ Tağ Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -170,7 +170,7 @@ async def mentionalladmin(event):
     await client.send_message(event.chat_id, "❄️ Admin tağ başladı\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -184,7 +184,7 @@ async def mentionalladmin(event):
         await event.respond("⛔ Admin Tağ Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -229,7 +229,7 @@ async def tektag(event):
     await client.send_message(event.chat_id, "❄️ Tek-tek tağ başladı\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -243,7 +243,7 @@ async def tektag(event):
         await event.respond("⛔ Teker teker Tağ Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -298,7 +298,7 @@ async def etag(event):
     await client.send_message(event.chat_id, "❄️ Emoji li  Tağ başladı\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -312,7 +312,7 @@ async def etag(event):
         await event.respond("⛔ Emoji  li Tağ işlemi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -407,7 +407,7 @@ async def stag(event):
     await client.send_message(event.chat_id, "❄️ Söz ilə tağ başladı\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -421,7 +421,7 @@ async def stag(event):
         await event.respond("⛔ Söz ileə tag Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -499,7 +499,7 @@ async def ctag(event):
     await client.send_message(event.chat_id, "❄️ Söz ile etiketleme başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -513,7 +513,7 @@ async def ctag(event):
         await event.respond("⛔ Söz ile etiketleme işlemi durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -559,7 +559,7 @@ async def rtag(event):
     await client.send_message(event.chat_id, "❄️ Renk ile etiketleme başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   ) 
@@ -573,7 +573,7 @@ async def rtag(event):
         await event.respond("⛔ Renk ile etiketleme işlemi durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{aztecasq}')
                       ]
                     )
                   )
@@ -608,6 +608,6 @@ async def mentionall(tagadmin):
 ###############################
 
 
-print(">> Bot çalışmaktadur merak etme 🚀 @BOT_RAMO bilgi alabilirsin <<")
+print(">> Bot çalışmaktadur merak etme 🚀 @Qnevarlan bilgi alabilirsin <<")
 client.run_until_disconnected()
 run_until_disconnected()
